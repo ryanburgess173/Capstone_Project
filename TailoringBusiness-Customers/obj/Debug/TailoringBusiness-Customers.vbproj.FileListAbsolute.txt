@@ -1,0 +1,38 @@
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\bin\Debug\TailoringBusiness.accdb
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.exe.config
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.exe
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.pdb
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.xml
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.vbprojAssemblyReference.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form1.resources
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Resources.resources
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.vbproj.GenerateResource.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.exe
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.xml
+C:\Users\ryanb\AppData\Local\Temporary Projects\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.pdb
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.exe.config
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.exe
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.pdb
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\bin\Debug\TailoringBusiness-Customers.xml
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.vbprojAssemblyReference.cache
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Resources.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.vbproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.vbproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.exe
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.xml
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness-Customers.pdb
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form2.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form1.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form3.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form4.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form5.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form6.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form7.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form8.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\bin\Debug\TailoringBusiness.accdb
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form9.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form10.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form11.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form12.resources
+C:\Users\ryanb\source\repos\TailoringBusiness-Customers\TailoringBusiness-Customers\obj\Debug\TailoringBusiness_Customers.Form13.resources

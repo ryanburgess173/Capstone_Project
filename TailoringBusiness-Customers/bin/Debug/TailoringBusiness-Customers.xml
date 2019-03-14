@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TailoringBusiness-Customers
+</name>
+</assembly>
+<members>
+<member name="T:TailoringBusiness_Customers.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TailoringBusiness_Customers.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TailoringBusiness_Customers.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Bank_DepositsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.CommissionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.EmployeesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.General_LedgersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.InventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Inventory_ReportsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.ItemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Register_TicketsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.SuppliersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.TransactionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.VendorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Bank_DepositsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.CommissionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.EmployeesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.General_LedgersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.InventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Inventory_ReportsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.ItemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Register_TicketsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.SuppliersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.TransactionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.VendorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Bank_DepositsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.CommissionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.EmployeesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.General_LedgersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.InventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Inventory_ReportsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.ItemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.Register_TicketsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.SuppliersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.TransactionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSet.VendorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.Bank_DepositsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.CommissionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.EmployeesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.General_LedgersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.InventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.Inventory_ReportsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.ItemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.Register_TicketsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.SuppliersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TransactionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.VendorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TailoringBusiness_Customers.TailoringBusinessDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TailoringBusiness_Customers.TailoringBusinessDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TailoringBusiness_Customers.TailoringBusinessDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.UpdateAll(TailoringBusiness_Customers.TailoringBusinessDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TailoringBusiness_Customers.TailoringBusinessDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
