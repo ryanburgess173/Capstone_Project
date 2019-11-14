@@ -1,5 +1,8 @@
 # Capstone_Project
-A system for a fictitious tailoring business for my Capstone Project, CSC-289. This is a working progress. Should be finished by mid-May.
+
+UPDATE: Project Now Complete!!!
+
+A system for a fictitious tailoring business for my Capstone Project, CSC-289.
 
 I'm planning on using Visual Basic along with Access to build my system.
 
